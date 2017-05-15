@@ -11,7 +11,7 @@
 		if(body==null ||body==undefined ||!body) {
 			body = "-";
 		}
-		$.post( "//mobiledebugger.local/log/"+ROOM_NAME, { body: body,line: line, file : file} );
+		$.post( "//mobiledebugger.com/log/"+ROOM_NAME, { body: body,line: line, file : file} );
 	}
 
 	window.onerror = function(msg, file, line, col, error) {
