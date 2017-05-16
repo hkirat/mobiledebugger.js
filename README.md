@@ -16,7 +16,7 @@ And it only adds ~100 lines to your project.
    - `git clone https://github.com/hkirat/mobiledebugger.git`
  - Include mobiledebugger.js
   - npm install mobiledebugger.js
-  - <script src = "https://raw.githubusercontent.com/hkirat/mobiledebugger.js/master/mobiledebugger.js"></script>
+  - `<script src = "https://raw.githubusercontent.com/hkirat/mobiledebugger.js/master/mobiledebugger.js"></script>`
  - Include JQuery
  - Set global variable ROOM_NAME to your preferred name
  - Open your mobile site, Access your logs at mobiledebugger.com/room/ROOM_NAME`
