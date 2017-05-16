@@ -1,4 +1,4 @@
-# Mobile Debugger[![npm version](https://badge.fury.io/js/notification-logger.svg)](https://badge.fury.io/js/notification-logger)
+# Mobile Debugger[![npm version](https://badge.fury.io/js/mobiledebugger.js.svg)](https://badge.fury.io/js/mobiledebugger.js)
 
 Mobile Debugging involves the tedious process of setting up. Chrome and Firefox provide tools for Remote Debugging, however, the setup overhead is huge.
 
